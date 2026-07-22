@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Research and code projects bridging sustainable finance, AI infrastructure, carbon systems, and empirical sustainability analysis.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [research, code]
 horizontal: false
 ---
