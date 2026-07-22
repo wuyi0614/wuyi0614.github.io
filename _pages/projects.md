@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Placeholder research and code projects bridging sustainable finance, AI infrastructure, and empirical systems analysis.
+description: Research and code projects bridging sustainable finance, AI infrastructure, carbon systems, and empirical sustainability analysis.
 nav: true
 nav_order: 3
 display_categories: [research, code]

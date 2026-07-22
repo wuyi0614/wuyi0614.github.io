@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Reproducible Research Stack
-description: Code-first pipelines for urban, corporate, and policy datasets.
-img: assets/img/7.jpg
+title: Household Carbon Transition Modelling
+description: Bottom-up modelling of household emissions, lifestyle transition, and behavioural change.
+img:
 importance: 3
 category: code
 ---
 
-This placeholder project highlights the coding side of the profile: data engineering, estimation workflows, visualization, and publication-ready outputs.
+This research stream grew from Yi Wu's PhD at UCL and related work on household carbon footprints in China and Japan. It uses machine learning, agent-based modelling, and open data pipelines to understand lifestyle transition, demographic change, and household-level mitigation limits.
 
-- Python and R pipelines for multi-source empirical research.
-- Notebook-to-paper workflow with versioned figures and tables.
-- Designed to showcase technical depth alongside publications.
+- Models household energy consumption disparities and behavioural failure.
+- Uses machine learning and agent-based approaches for bottom-up mitigation analysis.
+- Links household behaviour, city-scale emissions, and long-term climate targets.

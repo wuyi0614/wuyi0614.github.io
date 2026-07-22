@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher | PhD, UCL | Sustainable Finance, AI Data Centers, and Computational Policy Analysis
+subtitle: Research Scientist, Nanyang Technological University | PhD, UCL | Sustainable Finance, AI Data Centers, and Computational Sustainability
 
 profile:
   align: right
-  image: prof_pic_color.png
+  image: prof_pic_color.jpeg
   image_circular: false
   more_info: >
-    <p>Postdoctoral Researcher</p>
-    <p>PhD, University College London</p>
-    <p>City-scale + corporate-scale empirical research</p>
+    <p>Research Scientist</p>
+    <p>Alibaba-NTU Global e-Sustainability CorpLab</p>
+    <p>Nanyang Technological University, Singapore</p>
+    <p><a href="mailto:yiwu@ntu.edu.sg">yiwu@ntu.edu.sg</a></p>
 
 selected_papers: true
 social: true
@@ -25,42 +26,43 @@ latest_posts:
   enabled: false
 ---
 
-I study how **capital, infrastructure, and computation** reshape industrial systems. The current research agenda sits at the intersection of **sustainable finance**, **AI data centers**, and **applied quantitative methods**, with empirical work spanning both **city-level systems** and **corporate-level decision environments**.
+I am a Research Scientist at **Nanyang Technological University**, working with the **Alibaba-NTU Global e-Sustainability CorpLab**. My research studies how **finance, computation, infrastructure, and behaviour** interact in the low-carbon transition, with current work on sustainable standards knowledge graphs, green product definition, Scope 3 emissions data, AI data center expansion, corporate climate disclosure, and climate finance.
 
-This starter profile is intentionally set up with placeholder details so we can refine the factual record later. What matters for the first pass is the direction: an academic homepage that feels more like a **research operating system** than a generic CV page, with enough room for publications, code, and data-driven projects to sit side by side.
+I received my PhD in Sustainable Construction from **The Bartlett, University College London**, with a thesis on household lifestyle transition and behavioural change from a bottom-up perspective. My work combines climate change economics, agent-based modelling, machine learning, natural language processing, and large-scale data engineering.
 
 <div style="display:flex;flex-wrap:wrap;gap:0.55rem;margin:1.35rem 0 1.1rem 0;">
-  <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#111827;color:#f9fafb;font-weight:700;">Sustainable Finance</span>
+  <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#111827;color:#f9fafb;font-weight:700;">Climate Finance</span>
   <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#ff6b35;color:#101010;font-weight:700;">AI Data Centers</span>
-  <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#7cff6b;color:#101010;font-weight:700;">Industrial Policy</span>
-  <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#37d5ff;color:#101010;font-weight:700;">Computational Research</span>
+  <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#7cff6b;color:#101010;font-weight:700;">ESG Analytics</span>
+  <span style="padding:0.38rem 0.8rem;border-radius:999px;background:#37d5ff;color:#101010;font-weight:700;">NLP + LLM Systems</span>
 </div>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:0.8rem;margin:1.4rem 0 1.6rem 0;">
   <div style="padding:0.95rem 1rem;border:1px solid #d1d5db;border-left:6px solid #ff6b35;border-radius:14px;background:rgba(255,255,255,0.9);">
     <div style="font-size:0.78rem;letter-spacing:0.08em;text-transform:uppercase;color:#6b7280;">Scale</div>
-    <div style="font-weight:800;font-size:1.05rem;">City + Corporate</div>
+    <div style="font-weight:800;font-size:1.05rem;">Household + City + Corporate</div>
   </div>
   <div style="padding:0.95rem 1rem;border:1px solid #d1d5db;border-left:6px solid #7cff6b;border-radius:14px;background:rgba(255,255,255,0.9);">
     <div style="font-size:0.78rem;letter-spacing:0.08em;text-transform:uppercase;color:#6b7280;">Domain</div>
-    <div style="font-weight:800;font-size:1.05rem;">Finance + Infrastructure</div>
+    <div style="font-weight:800;font-size:1.05rem;">Finance + Carbon Systems</div>
   </div>
   <div style="padding:0.95rem 1rem;border:1px solid #d1d5db;border-left:6px solid #37d5ff;border-radius:14px;background:rgba(255,255,255,0.9);">
     <div style="font-size:0.78rem;letter-spacing:0.08em;text-transform:uppercase;color:#6b7280;">Mode</div>
-    <div style="font-weight:800;font-size:1.05rem;">Coding-First Empirics</div>
+    <div style="font-weight:800;font-size:1.05rem;">Coding + Modelling</div>
   </div>
 </div>
 
 ## Research Directions
 
-- Sustainable finance under infrastructure transition, energy constraints, and regulatory change.
-- AI data centers as industrial assets with implications for land, grids, emissions, and local development.
-- Corporate and urban empirical strategies using administrative data, text, and reproducible coding workflows.
+- Sustainable finance, climate investment, green bond impact, and digitalized carbon finance.
+- AI data centers, electricity prices, Scope 3 emissions accounting, and infrastructure-linked sustainability risks.
+- Household carbon footprints, lifestyle transition, behavioural failure, and bottom-up mitigation pathways.
+- Corporate ESG, climate disclosure, sustainability standards, knowledge graphs, and LLM/NLP evidence systems.
 
 ## Methods and Technical Edge
 
-My work combines **econometric reasoning** with a strong **coding-first workflow**. The site is set up to highlight not only papers, but also the research machinery behind them: data pipelines, dashboards, maps, model diagnostics, and reproducible computational notebooks.
+My work is coding-intensive. I build research pipelines with Python, machine learning, natural language processing, databases, APIs, and reproducible modelling workflows. Before academia, I also worked as a back-end NLP developer and algorithm engineer, building crawlers, document classification pipelines, regulatory text tools, and data systems.
 
 ## Positioning
 
-The intended visual language for this website is deliberately slightly more **industrial** and slightly more **financial** than a standard academic homepage: clean structure, bright signal colors, and enough systems texture to support work on infrastructure, capital allocation, and AI-era urban transformation.
+Across academic and applied projects, I have worked with universities, development banks, government-linked climate programmes, green finance institutions, and technology teams. The website is framed to show that mix: academic publications, applied climate finance, AI-enabled sustainability infrastructure, and software-oriented research delivery.

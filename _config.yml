@@ -3,20 +3,20 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Firstname
+first_name: Yi
 middle_name:
-last_name: Lastname
+last_name: Wu
 contact_note: >
-  Placeholder contact details for now. Full profile links, office information, and downloadable materials can be added later.
+  For research collaboration, sustainable finance projects, and computational sustainability work, please contact me by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic profile template focused on sustainable finance, AI data centers, city- and corporate-level research, and computational methods.
+  Yi Wu's academic profile on sustainable finance, AI data centers, climate finance, household carbon transitions, ESG analytics, and computational sustainability.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: sustainable finance, AI data centers, academic website, computational economics, urban analytics
+keywords: Yi Wu, sustainable finance, AI data centers, climate finance, ESG, computational sustainability, carbon markets, household emissions
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: prof_pic_color.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic_color.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://wuyi0614.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -123,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Research Notes # blog_name will be displayed in your blog page
-blog_description: ideas on sustainable finance, infrastructure systems, and empirical coding
+blog_description: notes on sustainable finance, carbon transition, AI infrastructure, and empirical coding
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -331,8 +331,8 @@ display_categories: ["research-notes"] # these categories will be displayed on t
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Lastname]
-  first_name: [Firstname]
+  last_name: [Wu]
+  first_name: [Yi, Y.]
 
   style: apa
   locale: en

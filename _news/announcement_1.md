@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2026-07-10 09:00:00+0800
+date: 2026-07-22 09:00:00+0800
 inline: true
 related_posts: false
 ---
 
-Website rebooted on the `al-folio` template with a more industrial, research-first profile design.
+Website content reframed around Yi Wu's CV, including NTU research, UCL PhD training, climate finance, AI data centers, ESG analytics, and computational sustainability.
+

@@ -1,87 +1,261 @@
 cv:
-  name: Firstname Lastname
-  label: Postdoctoral Researcher
-  email: firstname.lastname@university.edu
-  location: London / Global Cities Research Network
+  name: Yi Wu
+  label: Research Scientist
+  email: yiwu@ntu.edu.sg
+  phone: "+65 98615229"
+  location: Singapore
   image: ""
-  summary: Researcher working at the intersection of sustainable finance, AI data center development, industrial systems, and computational empirical analysis.
+  summary: Research Scientist at Nanyang Technological University and Alibaba-NTU Global e-Sustainability CorpLab, working on sustainable finance, AI data centers, climate finance, ESG analytics, household carbon transitions, and computational sustainability.
 
   social_networks:
     - network: GitHub
-      username: industrial-research-lab
+      username: wuyi0614
     - network: LinkedIn
-      username: firstname-lastname
+      username: yi-wu
+
+  address:
+    street: Blk 287A Jurong East Street 21
+    city: Singapore
+    postalCode: "601287"
+    countryCode: SG
 
   sections:
     Education:
-      - institution: University College London
+      - institution: University College London, The Bartlett
         location: London, United Kingdom
-        url: https://www.ucl.ac.uk/
-        area: Finance, urban systems, and computational research
+        url: https://www.ucl.ac.uk/bartlett/
+        area: Sustainable Construction
         studyType: PhD
-        start_date: 20XX
-        end_date: 20XX
+        start_date: 2022-02
+        end_date: 2025-07
         highlights:
-          - Dissertation details to be added.
-          - Empirical focus on city-level and corporate-level analysis.
+          - "Thesis: Driving household lifestyle transition and nudging behavioural changes from a bottom-up perspective."
+          - "Fields: climate change economics, agent-based modelling, and machine learning approaches."
+          - "Supervisors: Prof. Xi Liang and Prof. Dabo Guan."
 
-      - institution: Placeholder Prior Institution
-        location: To be updated
-        area: Economics / Data Science
-        studyType: Master's Degree
-        start_date: 20XX
-        end_date: 20XX
+      - institution: University of Edinburgh, Edinburgh Business School
+        location: Edinburgh, United Kingdom
+        area: Finance
+        studyType: MRes
+        start_date: 2020-09
+        end_date: 2021-08
         highlights:
-          - Background details to be added.
+          - "Supervisors: Prof. Xi Liang and Prof. Yi Cao."
+
+      - institution: Chinese Academy of Sciences
+        location: China
+        area: Energy Economics
+        studyType: MSc
+        start_date: 2017-09
+        end_date: 2020-06
+        highlights:
+          - "Fields: economic modelling, system engineering, and energy economics."
+
+      - institution: Southwestern University of Finance and Economics
+        location: China
+        area: Management
+        studyType: BA
+        start_date: 2013-09
+        end_date: 2017-06
 
     Experience:
-      - company: Placeholder Research Institute
-        position: Postdoctoral Researcher
-        location: Current appointment
-        start_date: 20XX
-        end_date: present
-        summary: Leading projects on sustainable finance, AI infrastructure, and computational evidence design.
+      - company: Nanyang Technological University
+        position: Research Scientist, Alibaba-NTU Global e-Sustainability CorpLab
+        location: Singapore
+        start_date: 2025-09
+        end_date: 2026-08
         highlights:
-          - Built reproducible code pipelines for multi-source urban and corporate datasets.
-          - Developed research workflows linking infrastructure, capital allocation, and policy evaluation.
+          - Lead the Sustainable Standards Knowledge Graph project, developing LLM and NLP tools for high-quality sustainability knowledge bases.
+          - Principal researcher on Green Product Definition within the Sustainable Living project, using LLMs to study consumption-side drivers of sustainable consumption.
+          - Develop AI-based solutions for Scope 3 emissions data scarcity in Southeast Asian supply-chain enterprises.
 
-      - company: University College London
-        position: Doctoral Researcher
-        location: London, United Kingdom
-        start_date: 20XX
-        end_date: 20XX
+      - company: Foreign Environmental Cooperation Centre, Ministry of Ecology and Environment
+        position: Project Expert
+        location: Beijing, China
+        start_date: 2024-09
+        end_date: 2025-01
         highlights:
-          - Dissertation and publication record to be added.
-          - Combined coding, empirical design, and policy-facing interpretation.
+          - Designed regional and city-level climate risk measurement work in climate-resilient pilot cities in Yunnan and Guangxi.
+          - Led regional and city-level planning and policy insights on climate adaptation financing.
 
-    Publications:
-      - title: Placeholder publications are shown on the dedicated publications page
+      - company: UK-China (Guangdong) CCUS Centre
+        position: Director of R&D
+        location: Guangzhou, China
+        start_date: 2023-01
+        end_date: 2024-09
+        highlights:
+          - Led R&D and software development for an 11-member IT team in Shenzhen.
+          - Led the Carbon Inclusion Programme in Shaanxi, including design, survey, and development.
+          - Communicated with commercial and technological partners.
+
+      - company: China Resources Group
+        position: Net-zero Expert
+        location: Shenzhen, China
+        start_date: 2021-09
+        end_date: 2022-12
+        highlights:
+          - Designed digital carbon asset management system architecture, core modules, and documentation.
+          - Studied the market value of voluntary carbon credits and low-carbon projects.
+          - Completed a joint State Grid Fujian project on green finance and power-carbon modelling.
+
+      - company: Asian Development Bank
+        position: Consulting Expert
+        location: Beijing, China
+        start_date: 2021-07
+        end_date: 2023-12
+        highlights:
+          - Studied blockchain applications for low-carbon project development.
+          - Designed the Climate Change Financing Acceleration Platform.
+          - Delivered climate finance and digitalisation training across seven Chinese cities.
+
+      - company: Reg-genome
+        position: Back-end Developer, NLP
+        location: Cambridge, United Kingdom
+        start_date: 2019-02
+        end_date: 2021-02
+        highlights:
+          - Developed crawlers, databases, and data operation interfaces for regulatory data teams.
+          - Built data transformers and NLP tools for UK, EU, and US regulatory documents.
+          - Built machine and deep learning models for document and topic classification.
+
+      - company: Giance Tech.
+        position: Algorithm Engineer
+        location: Beijing, China
+        start_date: 2019-02
+        end_date: 2019-10
+        highlights:
+          - Developed Flask and Apache Solr backend services.
+          - Processed English corpora with SpaCy and Stanza and contributed NER and parser components.
+
+    Research Appointments:
+      - company: University of Tokyo
+        position: International Collaboration Researcher
+        location: Japan
+        start_date: 2021-11
+        end_date: 2025-09
+
+      - company: University of Cambridge, Judge Business School
+        position: Research Assistant
+        location: Cambridge, United Kingdom
+        start_date: 2018-06
+        end_date: 2019-02
+
+    Selected Publications:
+      - title: Large Data Center Expansion Raises Residential Electricity Prices
         authors:
-          - Firstname Lastname
-        publisher: Research profile starter
-        releaseDate: 2026-07-22
-        summary: Replace this section with final publication metadata once the homepage content is finalized.
+          - H. Ho
+          - Yi Wu
+        publisher: Science, submitted
+        releaseDate: 2026
+
+      - title: Reassessing Corporate Climate Disclosures through a Textual Factor Framework
+        authors:
+          - Yi Wu
+          - Y. Zhang
+          - M. Liu
+          - W. Liu
+          - H. Xu
+        publisher: Communications Earth & Environment, under review
+        releaseDate: 2026
+
+      - title: Driving forces and typologies behind household energy consumption disparities in China
+        authors:
+          - Yi Wu
+          - Y. Zhang
+          - Y. Li
+          - C. Xu
+          - X. Liang
+        publisher: Journal of Cleaner Production
+        releaseDate: 2024
+
+      - title: The heterogeneous role of energy policies in the energy transition of Asia-Pacific emerging economies
+        authors:
+          - P. Chen
+          - Yi Wu
+          - J. Meng
+          - P. He
+          - D. Li
+          - D. Coffman
+          - X. Liang
+          - D. Guan
+        publisher: Nature Energy
+        releaseDate: 2022
+
+    Research Programmes:
+      - name: Sustainable Standards Knowledge Graph
+        summary: LLM and NLP project for expert-guided sustainability standards knowledge graphs.
+        highlights:
+          - Knowledge graph construction
+          - Sustainability standards
+          - ESG reasoning and evidence systems
+
+      - name: Climate Investment and Finance Pilot Programs
+        summary: Climate investment and finance proposals and implementation studies for Chinese pilot cities.
+        highlights:
+          - Baoding, Lanzhou, Xiongan, Beijing Tongzhou, and Miyun
+          - Climate adaptation financing
+          - Digital climate finance
+
+      - name: Household Lifestyle Transition
+        summary: Bottom-up modelling of household lifestyle transition, behavioural failure, and long-term emissions mitigation.
+        highlights:
+          - Agent-based modelling
+          - Machine learning
+          - Household carbon footprint analysis
+
+    Teaching:
+      - institution: University College London, The Bartlett
+        area: Strategic financial management of construction and infrastructure projects
+        studyType: Teaching Assistant
+        start_date: 2023-12
+        highlights:
+          - Drafted tutorial materials for MSc Sustainable Construction postgraduates.
+          - Designed an Excel-based investment portfolio simulation toolkit.
+
+      - institution: Graduate School of Engineering, University of Tokyo
+        area: Climate financing and household energy consumption research methods
+        studyType: Invited Lecturer
+        start_date: 2023-06
+        highlights:
+          - Delivered postgraduate sessions on climate financing and input-output approaches.
+
+      - institution: Climate finance capacity building programmes
+        area: Digitalisation, climate finance standards, and carbon markets
+        studyType: Lecturer
+        start_date: 2023-04
+        end_date: 2023-11
+        highlights:
+          - Delivered seven training sessions across Chinese cities.
+          - Reached over 1,200 institutions and 2,150 participants.
+
+    Awards:
+      - title: Outstanding Poster, EcoBalance 2024
+        date: 2024
+        awarder: EcoBalance
+
+      - title: Party Member for COP28
+        date: 2023-12
+        awarder: COP28 Dubai
+
+      - title: Chinese Delegate for the 23rd TEMM Youth Forum
+        date: 2023-03
+        awarder: TEMM Youth Forum
+
+      - title: First Prize, 4th National Competition of Data Mining
+        date: 2016-05
 
     Skills:
-      - name: Coding
-        level: Advanced
+      - name: Python and Software Development
+        level: Expert
         icon: fa-solid fa-code
-        keywords: "Python, R, GIS, Data Engineering, Text Analysis, Visualization, Reproducible Research"
+        keywords: "Python, full-stack development, testing, RESTful APIs, MySQL, MongoDB, Elasticsearch, Docker"
 
-      - name: Research Domains
-        level: Advanced
-        icon: fa-solid fa-industry
-        keywords: "Sustainable Finance, AI Data Centers, Urban Analytics, Corporate Strategy, Industrial Transition"
+      - name: Machine Learning and NLP
+        level: Expert
+        icon: fa-solid fa-brain
+        keywords: "Machine learning, deep learning, NLP, text analysis, data mining, model pipelines, LLM applications"
 
-    Interests:
-      - name: Research Themes
+      - name: Sustainability Analytics
+        level: Expert
         icon: fa-solid fa-chart-line
-        keywords: "Infrastructure Finance, Energy Systems, City Networks, Computational Policy, Corporate Adaptation"
-
-    Projects:
-      - name: Research computing stack
-        summary: Placeholder for code repositories, dashboards, data pipelines, and reproducible notebooks connected to ongoing papers.
-        highlights:
-          - Publication-linked code
-          - Data workflows
-          - Interactive outputs
+        keywords: "Climate finance, ESG, carbon markets, household emissions, Scope 3 accounting, city-level climate risk"

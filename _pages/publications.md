@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Placeholder publications aligned with sustainable finance, AI data centers, and computational empirical research.
+description: Publications on sustainable finance, AI data centers, ESG analytics, climate policy, household emissions, and computational sustainability.
 nav: true
 nav_order: 2
 ---

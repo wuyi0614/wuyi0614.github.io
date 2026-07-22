@@ -1,14 +1,14 @@
 ---
 layout: page
-title: AI Data Center Geography Monitor
-description: Mapping industrial land, power demand, and sustainability constraints across emerging compute clusters.
-img: assets/img/12.jpg
+title: Sustainable Standards Knowledge Graph
+description: LLM and NLP tools for expert-guided sustainability standards knowledge graphs.
+img:
 importance: 1
 category: research
 ---
 
-This placeholder project presents a research-facing monitor for studying how AI data center expansion interacts with land markets, grid bottlenecks, and regional industrial policy.
+This project sits within Yi Wu's work at the Alibaba-NTU Global e-Sustainability CorpLab. It develops LLM and NLP tools to transform sustainability standards into a high-quality knowledge base for ESG reasoning, green product definition, and evidence-based sustainability assessment.
 
-- Tracks planned and operational facilities across city regions.
-- Links site selection patterns to energy, land, and regulatory variables.
-- Designed for publication-linked maps, charts, and reproducible data updates.
+- Builds expert-guided sustainability standards knowledge graphs.
+- Supports LLM-empowered retrieval, reasoning, and evidence closure.
+- Connects corporate ESG claims with standards, reports, and auditable text evidence.

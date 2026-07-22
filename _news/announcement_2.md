@@ -1,16 +1,12 @@
 ---
 layout: post
-title: Placeholder research agenda
-date: 2026-06-18 10:30:00+0800
+title: Current research agenda
+date: 2026-07-01 10:30:00+0800
 inline: false
 related_posts: false
 ---
 
-Current placeholder research themes for the site include:
+Current research directions include sustainable standards knowledge graphs, green product definition, Scope 3 emissions data, AI data center expansion, corporate climate disclosure, climate finance, and household carbon transition modelling.
 
-- sustainable finance under infrastructure transition
-- AI data centers and urban-industrial systems
-- corporate adaptation, disclosure, and capital allocation
-- reproducible coding workflows for empirical research
+The site is being organized as an academic and applied research profile, with publications, projects, software-oriented methods, and climate finance work shown together.
 
-These entries are intentionally provisional and can be replaced with final news, paper updates, and project milestones later.
