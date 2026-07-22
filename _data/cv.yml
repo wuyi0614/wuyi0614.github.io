@@ -145,7 +145,7 @@ cv:
         authors:
           - H. Ho
           - Yi Wu
-        publisher: Science, submitted
+        publisher: Proceedings of the National Academy of Sciences, submitted
         releaseDate: 2026
 
       - title: Reassessing Corporate Climate Disclosures through a Textual Factor Framework
@@ -158,14 +158,29 @@ cv:
         publisher: Communications Earth & Environment, under review
         releaseDate: 2026
 
-      - title: Driving forces and typologies behind household energy consumption disparities in China
+      - title: Productive Rather Than Aesthetic Urban Landscapes Drive Actualized Sustainable Consumption
         authors:
+          - X. Luo
           - Yi Wu
-          - Y. Zhang
-          - Y. Li
-          - C. Xu
-          - X. Liang
-        publisher: Journal of Cleaner Production
+          - J. Ye
+          - H. Yin
+          - Y. Hou
+          - S. Ray
+          - T. Bao
+          - H. Xu
+          - L. Xu
+          - W. Liu
+        publisher: Nature Cities, submitted
+        releaseDate: 2026
+
+      - title: Demographic Transition Hinders Climate Change Mitigation in the Aging and Shrinking Japanese Residential Sector
+        authors:
+          - Y. Long
+          - Y. Yoshida
+          - P. Chen
+          - Yi Wu
+          - A. Gasparatos
+        publisher: Cell Reports Sustainability
         releaseDate: 2024
 
       - title: The heterogeneous role of energy policies in the energy transition of Asia-Pacific emerging economies
