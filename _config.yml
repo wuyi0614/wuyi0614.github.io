@@ -676,5 +676,3 @@ third_party_libraries:
 jekyll_get_json: []
 
 jsonresume: []
-  - interests
-  - references
