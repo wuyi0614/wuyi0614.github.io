@@ -58,15 +58,22 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
@@ -78,10 +85,12 @@ jobs:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
       - name: Setup Node 🧰
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "24"
           cache: "npm"
+      - name: Setup Pages 📄
+        uses: actions/configure-pages@v5
       - name: Install JS deps 📦
         run: npm ci
       - name: Update _config.yml ⚙️
@@ -101,8 +110,12 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Upload artifact 📦
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: _site
+        id: deployment
+        uses: actions/deploy-pages@v4
