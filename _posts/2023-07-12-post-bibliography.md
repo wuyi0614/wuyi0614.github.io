@@ -19,4 +19,4 @@ sed do eiusmod tempor.
 Lorem ipsum dolor sit amet, consectetur adipisicing.
 {% endquote %}
 
-If you would like something more academic, check the [distill style post]({% post_url 2018-12-22-distill %}).
+If you would like something more academic, you can adapt this post into a paper note with bibliography support.
