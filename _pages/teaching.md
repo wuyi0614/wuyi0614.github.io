@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching
+## Courses
 
 - *12/2023*  
   **Strategic Financial Management of Construction and Infrastructure Projects**  
@@ -24,7 +24,7 @@ nav_order: 4
   Invited Lecturer  
   **Content**: offered **two courses (1.5h each)** for postgraduates at the Graduate School of Engineering, University of Tokyo, Japan; the courses were **Climate Financing Introduction** and **Research Method in Household Energy Consumption**.
 
-## Invited Lectures and Training
+## Invited Lectures and Training Sessions
 
 - *04/2023-11/2023*  
   **Capacity Building and Training for Climate Financing**  
