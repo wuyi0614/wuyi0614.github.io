@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-nav: true
+nav: false
 nav_order: 1
 subtitle: Research Scientist @ Alibaba-NTU Global e-Sustainability CorpLab, Nanyang Technological University | PhD (2025, UCL) | Singapore, London, Suzhou (China)
 
@@ -31,6 +31,35 @@ latest_posts:
   .news h2,
   .publications h2 {
     text-transform: capitalize;
+  }
+
+  .post .social,
+  .post .contact-icons,
+  .post .social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.1rem;
+  }
+
+  .post .social a,
+  .post .contact-icons a,
+  .post .social-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+  }
+
+  .post .social i,
+  .post .social svg,
+  .post .contact-icons i,
+  .post .contact-icons svg,
+  .post .social-icons i,
+  .post .social-icons svg {
+    display: block;
+    line-height: 1;
   }
 </style>
 
